@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+ollama
+speechrecognition
+pyttsx3
+pydub
+python-dotenv
